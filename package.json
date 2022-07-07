@@ -23,7 +23,7 @@
     "connected-react-router": "^6.7.0",
     "date-fns": "^2.9.0",
     "material-table": "^1.57.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "notistack": "^0.9.7",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
